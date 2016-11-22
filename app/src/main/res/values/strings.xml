@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Chicago Tour App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="restaurants">Food</string>
+    <string name="bars">Bars</string>
+    <string name="museums">Museums</string>
+    <string name="landmarks">Sites</string>
+
+
+    <!--restaurants-->
+    <string name="restaurant_item_0_name">Lou Malnati\'s</string>
+    <string name="restaurant_item_0_address">439 N Wells St, Chicago, IL</string>
+    <string name="restaurant_item_0_url">https://order.loumalnatis.com/</string>
+
+    <string name="restaurant_item_1_name">Girl and the Goat</string>
+    <string name="restaurant_item_1_address">809 W Randolph St, Chicago, IL</string>
+    <string name="restaurant_item_1_url">http://girlandthegoat.com/</string>
+
+    <string name="restaurant_item_2_name">The Purple Pig</string>
+    <string name="restaurant_item_2_address">500 N Michigan Ave, Chicago, IL"</string>
+    <string name="restaurant_item_2_url">http://places.singleplatform.com/the-purple-pig/menu?ref=google</string>
+
+    <string name="restaurant_item_3_name">RPM Italian</string>
+    <string name="restaurant_item_3_address">52 W Illinois St, Chicago, IL"</string>
+    <string name="restaurant_item_3_url">http://places.singleplatform.com/rpm-italian/menu?ref=google</string>
+
+    <string name="restaurant_item_4_name">Momotaro</string>
+    <string name="restaurant_item_4_address">820 W Lake St, Chicago, IL</string>
+    <string name="restaurant_item_4_url">http://www.momotarochicago.com/img/izakaya.pdf</string>
+
+
+    <!--bars-->
+    <string name="bar_item_0_name">The Violet Hour</string>
+    <string name="bar_item_0_address">1520 N Damen Ave, Chicago, IL</string>
+    <string name="bar_item_0_url">http://places.singleplatform.com/the-violet-hour/menu?ref=google</string>
+
+    <string name="bar_item_1_name">Three Dots and a Dash</string>
+    <string name="bar_item_1_address">435 N Clark St, Chicago, IL</string>
+    <string name="bar_item_1_url">http://places.singleplatform.com/three-dots-and-a-dash/menu?ref=google</string>
+
+    <string name="bar_item_2_name">The Whistler</string>
+    <string name="bar_item_2_address">2421 N Milwaukee Ave, Chicago, IL</string>
+    <string name="bar_item_2_url">https://locu.com/places/the-whistler-chicago-us/#menu</string>
+
+    <string name="bar_item_3_name">Scofflaw</string>
+    <string name="bar_item_3_address">3201 W Armitage Ave, Chicago, IL</string>
+    <string name="bar_item_3_url">http://places.singleplatform.com/scofflaw/menu?ref=google</string>
+
+    <string name="bar_item_4_name">Lost Lake</string>
+    <string name="bar_item_4_address">3154 W Diversey Ave, Chicago, IL</string>
+    <string name="bar_item_4_url">http://www.lostlaketiki.com/</string>
+
+
+    <!--museums-->
+    <string name="museum_item_0_name">Field Museum of Natural History</string>
+    <string name="museum_item_0_address">1400 S Lake Shore Dr, Chicago, IL</string>
+    <string name="museum_item_0_url">https://www.timeout.com/chicago/museums/the-field-museum</string>
+
+    <string name="museum_item_1_name">Museum of Science and Industry</string>
+    <string name="museum_item_1_address">5700 S Lake Shore Dr, Chicago, IL</string>
+    <string name="museum_item_1_url">https://www.timeout.com/chicago/museums/museum-of-science-and-industry</string>
+
+    <string name="museum_item_2_name"> Art Institute of Chicago</string>
+    <string name="museum_item_2_address">111 S Michigan Ave, Chicago, IL</string>
+    <string name="museum_item_2_url">https://www.timeout.com/chicago/things-to-do/art-institute-of-chicago</string>
+
+    <string name="museum_item_3_name">Chicago History Museum</string>
+    <string name="museum_item_3_address">1601 N Clark St, Chicago, IL</string>
+    <string name="museum_item_3_url">https://www.timeout.com/chicago/museums/chicago-history-museum</string>
+
+    <string name="museum_item_4_name">Adler Planetarium</string>
+    <string name="museum_item_4_address">Museum Campus, 1300 LSD, Chicago, IL</string>
+    <string name="museum_item_4_url">https://www.timeout.com/chicago/museums-institutions/adler-planetarium</string>
+
+
+    <!--landmarks-->
+    <string name="landmark_item_0_name">Navy Pier</string>
+    <string name="landmark_item_0_address">600 E Grand Ave, Chicago, IL</string>
+    <string name="landmark_item_0_url">https://navypier.com/</string>
+
+    <string name="landmark_item_1_name">Millennium Park</string>
+    <string name="landmark_item_1_address">201 E Randolph St, Chicago, IL</string>
+    <string name="landmark_item_1_url">https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park_-artarchitecture.html</string>
+
+    <string name="landmark_item_2_name">Cloud Gate</string>
+    <string name="landmark_item_2_address">Chicago, IL</string>
+    <string name="landmark_item_2_url">https://en.wikipedia.org/wiki/Cloud_Gate</string>
+
+    <string name="landmark_item_3_name">Willis Tower</string>
+    <string name="landmark_item_3_address">233 S Wacker Dr, Chicago, IL</string>
+    <string name="landmark_item_3_url">http://theskydeck.com/</string>
+
+    <string name="landmark_item_4_name">Shedd Aquarium</string>
+    <string name="landmark_item_4_address">1200 S Lake Shore Dr, Chicago, IL</string>
+    <string name="landmark_item_4_url">http://www.sheddaquarium.org/</string>
+
+</resources>
